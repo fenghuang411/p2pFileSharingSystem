@@ -1,0 +1,12 @@
+copy p1\conf_push p1\conf
+copy p2\conf_push p2\conf
+copy p3\conf_push p3\conf
+copy p4\conf_push p4\conf
+copy p5\conf_push p5\conf
+copy p6\conf_push p6\conf
+copy p7\conf_push p7\conf
+copy p8\conf_push p8\conf
+copy p9\conf_push p9\conf
+copy p10\conf_push p10\conf
+copy p11\conf_push p11\conf
+copy p12\conf_push p12\conf
